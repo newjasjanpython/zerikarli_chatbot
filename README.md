@@ -53,7 +53,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 - [scikit-learn](https://scikit-learn.org/)
 - [pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
-- [OpenAI](https://www.openai.com/)
 
 ## Authors
 
