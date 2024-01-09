@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/newjasjanpython/zerikarli_chatbot.git
-cd your-chatbot
+cd zerikarli_chatbot
 ```
 
 2. Install dependencies:
